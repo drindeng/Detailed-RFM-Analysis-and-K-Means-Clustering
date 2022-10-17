@@ -22,4 +22,4 @@ Each item might be fulfilled by a distinct seller.
 
 All text identifying stores and partners where replaced by the names of Game of Thrones great houses.
 
-# *This project's goal is to discover and categorize potential customers so that customised marketing methods can be used.*
+## *This project's goal is to discover and categorize potential customers so that customised marketing methods can be used.*
