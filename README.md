@@ -1,4 +1,4 @@
-# Detailed-RFM-Analysis-and-K-Means-Clustering
+# Segmenting customers in a Brazilian e-commerce company
 
 # About Dataset
 
